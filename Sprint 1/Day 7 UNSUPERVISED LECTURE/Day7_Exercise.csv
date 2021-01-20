@@ -1,0 +1,23 @@
+Student#,How reliable is your internet connection?,[Python],[Linear Algebra], [Pandas], [Numpy], [Data Visualization, [Regression algorithms with scikit-learn], [Classification algorithms with scikit-learn], [Clustering algorithms with scikit-learn], [Queries with SQL], [Graphic design], [Public speaking],[Course],Gender,Personality
+1,Often reliable,1,1,1,1,0,0,0,0,1,0,1,BS Mechanical Engineering,F,Introvert
+2,Often reliable,2,1,1,1,1,0,0,0,3,3,2,B.S. Chemical Engineering,M,Introvert
+3,Often reliable,3,2,2,2,2,0,0,0,1,0,2,BS Electronics and Communications Engineering,M,Introvert
+4,Always reliable,3,2,3,3,3,3,3,3,3,0,2,BS Management,M,Introvert
+5,Often reliable,3,2,3,3,3,2,2,2,3,0,0,BS Statistics,F,Introvert
+6,Often reliable,1,2,1,1,1,0,0,0,2,1,1,BS Computer Science,F,Extrovert
+7,Somewhat reliable,1,0,0,0,0,0,0,0,0,0,0,BS Geodetic Engineering,M,Extrovert
+8,Somewhat reliable,3,2,2,2,2,2,1,1,2,0,1,BS Math,F,Introvert
+9,Often reliable,2,1,2,1,1,0,0,0,1,0,1,BS Electronics Engineering,M,Introvert
+10,Often reliable,1,1,1,1,1,0,0,0,1,0,2,BS Computer Science,M,Introvert
+11,Somewhat reliable,1,1,0,0,0,0,0,0,0,0,3,BS Electronics Engineering,M,Extrovert
+12,Often reliable,3,3,2,2,1,2,2,2,2,3,2,BS IT,M,Introvert
+13,Always reliable,3,3,0,0,0,0,0,0,3,0,2,BS Physics,M,Extrovert
+14,Often reliable,3,3,1,1,1,0,0,0,2,0,2,BS Psychology,M,Introvert
+15,Often reliable,2,1,2,1,1,0,0,0,1,2,2,BS Computer Science,F,Introvert
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,Legend:,,,,,,,,,,,,,
+,,3,Excellent,,,,,,,,,,,,
+,,2,Average,,,,,,,,,,,,
+,,1,Below Average,,,,,,,,,,,,
+,,0,Newbie,,,,,,,,,,,,
